@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545221123 source:d:\drivex\personal stuff\hit stuff\数据结构与算法\work4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+

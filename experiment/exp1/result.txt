@@ -1,0 +1,4 @@
+The quotient of the two polynomials is:
+0.57x^0
+The quotient of the two polynomials is:
+-2.30x^3+-1.05x^2+3.85x^1

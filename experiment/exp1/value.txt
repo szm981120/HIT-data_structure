@@ -1,0 +1,2 @@
+The value of the polynomial in polynomial.txt when x equals to 2.00 is:
+154.000000

@@ -1,0 +1,2 @@
+The compression rate: 54.951489%
+Note: x/y/8	x is the size of compression.txt, y is the size of the text.txt

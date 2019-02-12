@@ -1,0 +1,2 @@
+The tree is supposed to be: [[[1]2]4[6]]8[12]
+After the rotation: [[[1]2]4[[6]8[12]]]
